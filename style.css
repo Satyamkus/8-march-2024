@@ -28,7 +28,8 @@ img {
 	left: 0;
 	right: 0;
 	bottom: 0;
-	background-color: antiquewhite;
+/* 	background-color: antiquewhite; */
+		background-image:url(international-womens-day-2024.jpg);
 	font-size: 75px;
 	transition: 150ms ease;
 	z-index: 9999;
